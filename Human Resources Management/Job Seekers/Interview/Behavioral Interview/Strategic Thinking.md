@@ -23,5 +23,3 @@
      - **T:** "The task was to align our initiatives with the company's strategic goal of improving customer satisfaction."
      - **A:** "I facilitated meetings to ensure everyone understood the strategic objective, delegated tasks accordingly, and provided regular progress updates."
      - **R:** "By aligning our efforts, we improved customer satisfaction scores by 20%, directly contributing to the company's strategic goal."
-
-##
